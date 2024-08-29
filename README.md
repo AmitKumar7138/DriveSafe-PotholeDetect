@@ -1,4 +1,4 @@
-# Pothhole_Detection_and_Segmentation<div align="center">
+# DriveSafe-PotholeDetect : Pothhole_Detection_and_Segmentation<div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
       <img width="850" src="https://raw.githubusercontent.com/ultralytics/assets/master/yolov5/v70/splash.png"></a>
